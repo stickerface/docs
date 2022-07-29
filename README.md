@@ -1,4 +1,4 @@
-### Abstract
+## Abstract
 
 Blockchain technology has already influenced our world in multiple ways, and it will continue revolutionizing our lives – especially the way we interact on the Internet. Metaverse is no longer some unattainable fantasy. Virtual worlds have accumulated vast communities and even set up their own blockchain-based economies within them. 
 
@@ -8,7 +8,7 @@ Moreover, StickerFace offers an open-source SDK that can be integrated into any 
 
 StickerFace NFT avatars are more than just digital art. It brings the crypto to world right at your fingertips — discovering new Web3 apps and games becomes much more fun when you see other StickerFacers there.
 
-###Introduction
+### Introduction
 
 StickerFace is an NFT avatar creator platform powered by the TON blockchain. StickerFace provides functionality for designing a digital avatar and creating an identity in the virtual world. 
 
@@ -23,7 +23,7 @@ What’s more, StickerFace offers an open-source SDK for developers for web and 
 
 Users can create avatars in the official StickerFace app for iOS or Android or in another service that has implemented StickerFace SDK.
 
-###Creator kit 
+### Creator kit 
 
 There are two ways to create an avatar: generate it from a selfie with the help of AI or build it using the Creator kit. In case the user wants to adjust the automatically generated avatar, they can do so in the StickerFace app. 
 
@@ -31,7 +31,7 @@ Creator kit is a flexible tool that makes avatar transformation a breeze. Users 
 
 Every combination of traits and colors results in a one-of-a-kind avatar. Users can mix and match a myriad of features to create a truly custom-made character. New variations will be added over time, making the number of possible face combinations near infinite.
 
-###Fashion Marketplace
+### Fashion Marketplace
 
 The StickerFace NFT fashion collection consists of 30,000 wearables and accessories. New items will be released for the StickerFace marketplace over the next 5 years. 
 
