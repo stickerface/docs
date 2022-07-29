@@ -1,4 +1,4 @@
-###Abstract
+### Abstract
 
 Blockchain technology has already influenced our world in multiple ways, and it will continue revolutionizing our lives – especially the way we interact on the Internet. Metaverse is no longer some unattainable fantasy. Virtual worlds have accumulated vast communities and even set up their own blockchain-based economies within them. 
 
