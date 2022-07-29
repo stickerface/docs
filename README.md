@@ -37,12 +37,12 @@ The StickerFace NFT fashion collection consists of 30,000 wearables and accessor
 
 The fashion marketplace will include accessories such as glasses or piercings, and wearables including branded shirts, hats, and more. Dressing up the avatar is made easy in StickerFace. 
 
-###Technology
+### Technology
 
 StickerFace is based on the TON blockchain. The application uses TON smart contracts to maintain a ledger of ownership of avatars, wearables, and accessories in the virtual world. Avatars, wearables, and accessories are non-fungible digital assets that a user can  purchase with Toncoins. 
 User connects Tonkeeper wallet to the StickerFace app which processes transactions related to NFT purchase and sales. 
 
-###For developers
+### For developers
 
 StickerFace offers an open-source SDK that any project can integrate into web or mobile applications. Your users will be able to create a customizable NFT avatar right in your app or service. The setup process is quick and simple — **StickerFace SDK has all the necessary features for the implementation process to go smoothly.** 
 The project is available on GitHub. Developers can download the SDK from GitHub Repositories: iOS, Android, Web. 
@@ -55,31 +55,32 @@ There are several ways to render avatars:
 
 When rendering the client side, it’s important to keep in mind that while rendering is instant and in many cases doesn’t perform any network requests, sometimes it does due to downloading some parts or elements which are not yet cached.
 
-###Roadmap
-1.Q1 2022
- - Team hiring
- - Start creating NFTs
- - Fine-tuning the app & SDK
+### Roadmap
+- Q1 2022
+ 1. Team hiring
+ 2. Start creating NFTs
+ 3. Fine-tuning the app & SDK
 
-2. Q2 2022
-- NFTs created
-- Launch marketing campaign
-- First whitelist distribution
-- Private presale for TON Diamonds NFT holders
-- First airdrops
+- Q2 2022
+1. NFTs created
+2. Launch marketing campaign
+3. First whitelist distribution
+4. Private presale for TON Diamonds NFT holders
+5. First airdrops
 
-3. Q3 2022
-- Launch on GetGems NFT marketplace
-- Active promotion in TON community and beyond
-- Launch first collaborations between international brands and StickerFace NFT fashion marketplace
+- Q3 2022
+1. Launch on GetGems NFT marketplace
+2. Active promotion in TON community and beyond
+3. Launch first collaborations between international brands and StickerFace NFT fashion marketplace
 
-4. Q4 2022
-- Integrations with games, apps, and social media
-- Exclusive airdrops of partnering NFTs
-- Exclusive sales of partnering NFTs
-- Bringing the characters to live with lottie-animations and 3D.
+- Q4 2022
+1. Integrations with games, apps, and social media
+2. Exclusive airdrops of partnering NFTs
+3. Exclusive sales of partnering NFTs
+4. Bringing the characters to live with lottie-animations and 3D.
 
 
+SDK refs:
 - https://github.com/stickerface/web-sdk
 - https://github.com/stickerface/android-sdk
 - https://github.com/stickerface/react-sdk
